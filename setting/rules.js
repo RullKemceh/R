@@ -14,7 +14,7 @@ Sanksi: *GUA BLOK TAPI KLO CEWE GPP*
 3. Jangan memnghina/menghujat bot.
 Sanksi: *GUA BLOK NOMER LU + WAR SANTED*
 
-_BOT NYOLONG SC ORG/AUTO RES/WIBU AE BANGGA JANGAN SOK PRO DEK !_
+
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!
 
